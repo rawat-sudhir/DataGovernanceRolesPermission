@@ -4,3 +4,4 @@ The Microsoft Purview documentation on roles and permissions provides an in-dept
 
 This is where a flowchart proves invaluable. By translating the information into a visual representation, the roles and permissions structure becomes easier to follow and comprehend at a glance.
 
+![Flowchart of Microsoft Purview Roles and Permissions](Purview_Roles_Permission.png)
